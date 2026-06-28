@@ -96,8 +96,6 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-{% comment %}
-
 <div class="row g-3 pb-3">
 
   <!-- left column spans 2 rows -->
@@ -161,7 +159,6 @@ the pitch.
   </div>
 </div>
 
-{% endcomment %}
 
 {% if site.pilot %}
 This is a pilot workshop, testing out a lesson that is still under development. The lesson authors would appreciate any feedback you can give them about the lesson content and suggestions for how it could be further improved.
