@@ -466,8 +466,15 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
   </div>
 </div>
 
+
+
+
+<div><b>Pre-Workshop Set-Up and Installation:</b> August 3rd. 10.00-11.00</div>
+
+SCHEDULE (<b>all times MDT</b>)
+
 {% comment %}
-SCHEDULE
+
 
 Show the workshop's schedule.
 
