@@ -402,7 +402,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document (Etherpad)</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="{{ page.collaborative_notes }}">collaborative document (Etherpad)</a> for chatting, taking notes, and sharing URLs and bits of code. 
 </p>
 {% endif %}
 
@@ -469,7 +469,9 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 
 
-<div><b>Pre-Workshop Set-Up and Installation:</b> August 3rd. 10.00-11.00 MDT</div>
+<p><b>Pre-Workshop Set-Up and Installation:</b> August 3rd. 10.00-11.00 MDT</p>
+
+<p>The Zoom link for our workshop is <a href="https://carpentries.zoom.us/my/carpentriesroom3">here</a>.</p>
 
 
 {% comment %}
@@ -499,7 +501,7 @@ of code below the Schedule `<h2>` header below with
 
 
 <div class="card mb-2">
-  <h5 class="card-header"><b>Schedule</b> -all times MDT </h5>
+  <h5 class="card-header"><b>Schedule</b> - all times MDT </h5>
   {% include custom-schedule.html %}
 </div>
 
@@ -548,7 +550,7 @@ For online workshops, the section below provides:
 
 If you do not use Zoom for your online workshop, edit the file
 `_includes/install_instructions/videoconferencing.html`
-to include the relevant installation instructions.
+to include the relevant installation instructions.  
 {% endcomment %}
 {% if online != "false" %}
 {% include install_instructions/videoconferencing.html %}
