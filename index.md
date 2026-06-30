@@ -494,8 +494,12 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
+<div></div>
+<div></div>
+
+
 <div class="card mb-2">
-  <h5 class="card-header">Schedule</h5>
+  <h5 class="card-header"><b>Schedule</b> -all times MDT </h5>
   {% include custom-schedule.html %}
 </div>
 
