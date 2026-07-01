@@ -469,7 +469,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 
 
-<p><b>Pre-Workshop Set-Up and Installation:</b> August 3rd. 10.00-11.00 MDT</p>
+<p><b>Pre-Workshop Set-Up and Installation:</b> August 3rd, 10.00-11.00 MDT</p>
 
 <p>The Zoom link for our workshop is <a href="https://carpentries.zoom.us/my/carpentriesroom3">here</a>.</p>
 
